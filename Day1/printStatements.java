@@ -8,5 +8,6 @@ public class qs1Pattern {
         System.out.println("**");
         System.out.println("***");
         System.out.println("****");
+
     }
 }
