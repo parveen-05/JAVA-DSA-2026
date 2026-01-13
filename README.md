@@ -9,4 +9,13 @@ for placement preparation.
 - Build discipline & GitHub streak
 
 ## Daily Progress
-- Day 1 (Jan): Java setup, Hello World, basics
+- Day 1 (Jan): Java setup, Hello World, basics,
+- sum, diff, divide, moduli
+- input/output
+- print statements
+
+## Day 2
+- Conditional statements (if, else-if)
+- Odd / Even program
+- Greater vs Lesser
+- Switch case
