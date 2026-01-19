@@ -21,7 +21,7 @@ for placement preparation.
 - Switch case
 
 ## Day 3
--Conditional Loops
--forLoop, while Loop, Do while Loop
--Sum of n natural numbers
--table
+- Conditional Loops
+- forLoop, while Loop, Do while Loop
+- Sum of n natural numbers
+- Table
