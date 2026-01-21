@@ -9,7 +9,9 @@ for placement preparation.
 - Build discipline & GitHub streak
 
 ## Daily Progress
-- Day 1 (Jan): Java setup, Hello World, basics,
+
+## Day 1 (Jan):
+- Java setup, Hello World, basics,
 - sum, diff, divide, moduli
 - input/output
 - print statements
