@@ -33,4 +33,8 @@ for placement preparation.
 - Printing Patterns
 - Floyd's Triangle
   
-  
+## Day 5
+- Advances Patterns
+- Butterfly Pattern
+- Diamond Pattern
+- Palindrome Pattern
