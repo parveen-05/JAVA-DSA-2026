@@ -25,3 +25,10 @@ for placement preparation.
 - forLoop, while Loop, Do while Loop
 - Sum of n natural numbers
 - Table
+  
+## Day 4
+- NestedLoops
+- Printing Patterns
+- Floyd's Triangle
+  
+  
