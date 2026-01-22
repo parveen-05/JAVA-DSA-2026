@@ -32,9 +32,19 @@ for placement preparation.
 - NestedLoops
 - Printing Patterns
 - Floyd's Triangle
-  
+
 ## Day 5
 - Advances Patterns
 - Butterfly Pattern
 - Diamond Pattern
 - Palindrome Pattern
+
+## Day 6
+- Functions and methods
+- calulate sum via fuction
+- factorial , multiplications
+
+## Day 7
+- diffrent types of quetions on fuctions
+- fibonacci series
+  
