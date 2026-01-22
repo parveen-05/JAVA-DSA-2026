@@ -47,4 +47,9 @@ for placement preparation.
 ## Day 7
 - diffrent types of quetions on fuctions
 - fibonacci series
-  
+
+## Day8
+- Arrays
+- search index in 1D array
+- 2D array
+- searching index in 2D array
