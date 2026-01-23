@@ -48,8 +48,15 @@ for placement preparation.
 - diffrent types of quetions on fuctions
 - fibonacci series
 
-## Day8
+## Day 8
 - Arrays
 - search index in 1D array
 - 2D array
 - searching index in 2D array
+
+## Day 9
+- Strings
+- Concatenation, charAt
+- SubStrings, StringBuilder
+- inset, set, delete, compareTo
+- Append String, Reverse String
