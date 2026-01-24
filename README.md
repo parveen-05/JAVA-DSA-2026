@@ -60,3 +60,9 @@ for placement preparation.
 - SubStrings, StringBuilder
 - inset, set, delete, compareTo
 - Append String, Reverse String
+
+## Day 10
+- Operators
+- Arithametic, Relational, Bitwise, Logical, Assignment
+- Binary Number System
+- Bit manipulation(Get, Set, Clear, Update)
