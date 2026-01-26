@@ -66,3 +66,10 @@ for placement preparation.
 - Arithametic, Relational, Bitwise, Logical, Assignment
 - Binary Number System
 - Bit manipulation(Get, Set, Clear, Update)
+
+## Day 11
+- Sorting
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+  
