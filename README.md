@@ -73,3 +73,16 @@ for placement preparation.
 - Selection Sort
 - Insertion Sort
   
+## Day 12
+- Recursion
+- natural numbers, fibonacci num
+- Que on power n, power logn
+
+## Day 13
+- advanced que on recursion
+- Tower of hanoi
+- Reverse String
+- First last occurance
+- Remove duplicates
+- Sub sequences, unique sun sequences
+   
