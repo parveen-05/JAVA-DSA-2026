@@ -85,4 +85,19 @@ for placement preparation.
 - First last occurance
 - Remove duplicates
 - Sub sequences, unique sun sequences
+
+## Day 14
+- Call guests prob
+- Permutations
+- Placing Tile
+- Subsets and Total paths
+
+## Day 15
+- Back Tracking
+- nQueen Prob
+- Sudoku Solver
+
+## Day 16
+- MergeSort
+- QucikSort
    
