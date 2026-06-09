@@ -117,4 +117,5 @@ for placement preparation.
 
 ## Day 20
 - LinkedList
-- add, delete
+- add, delete, print, size
+- Collection Frameworks in LL
