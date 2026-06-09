@@ -101,3 +101,20 @@ for placement preparation.
 - MergeSort
 - QucikSort
    
+## Day 17
+- OOPs java
+- Polymorphism
+- Inheritance
+- Encapsulation
+- Abstraction
+
+## Day 18
+- ArrayList
+- add, get, modify, delete, interate
+
+## Day 19 
+- Java Collection Framework
+
+## Day 20
+- LinkedList
+- add, 
