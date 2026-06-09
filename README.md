@@ -117,4 +117,4 @@ for placement preparation.
 
 ## Day 20
 - LinkedList
-- add 
+- add, delete
