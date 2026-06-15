@@ -44,6 +44,25 @@ public class ReverseList {
     public int getSize(){
         return size;
     }
+
+    public void reverseIterate(){
+        if(head == null || head.next == null){
+            return;
+        }
+
+        Node prevNode = head;
+        Node currNode = head.next;
+        while(currNode != null){
+            Node nextNode = currNode.next;
+            currNode.next = prevNode;
+
+            //update
+            prevNode = currNode;
+            currNode = nextNode;
+        }
+        head.next = null;
+        head = prevNode;
+    }
     public static void main(String arg[]){
         ReverseList list = new ReverseList();
         list.addFirst("1");
@@ -52,6 +71,8 @@ public class ReverseList {
         list.addFirst("4");
         list.printList();
 
+        list.reverseIterate();
+        list.printList();
 
     }
 }
