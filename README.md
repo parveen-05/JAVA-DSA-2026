@@ -129,5 +129,9 @@ for placement preparation.
 
 ## Day 22
 - Stack Data Structure
-- 
+- SDS using LinkedList
+- SDS using ArrayList
+- SDS using Collection FrameWork
+- Push At Bottom of Stack
+- Reverse Stack
   
