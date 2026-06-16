@@ -137,5 +137,9 @@ for placement preparation.
 
 ## Day 23
 - Queue Data Structure
-- 
+- Queue using Array
+  (Enqueue(Add), Dequeue(Remove), Front(Peek))
+- Circular Queue
+- Circulat Queue using Array
+- Circular Queue using LinkedList
   
