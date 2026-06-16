@@ -142,4 +142,6 @@ for placement preparation.
 - Circular Queue
 - Circulat Queue using Array
 - Circular Queue using LinkedList
+- Circular Queue using Collection FrameWork
+- Queue using 2 Stacks
   
