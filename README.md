@@ -119,3 +119,11 @@ for placement preparation.
 - LinkedList
 - add, delete, print, size
 - Collection Frameworks in LL
+- Reverse List
+
+## Day 21
+- Most important questions on Linked List
+- Linked List Cycle
+- Remove Loop in Linked List
+- Remove nth Node in Linked List
+  
