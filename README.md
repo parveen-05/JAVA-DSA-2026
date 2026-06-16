@@ -126,4 +126,8 @@ for placement preparation.
 - Linked List Cycle
 - Remove Loop in Linked List
 - Remove nth Node in Linked List
+
+## Day 22
+- Stack Data Structure
+- 
   
