@@ -144,4 +144,10 @@ for placement preparation.
 - Circular Queue using LinkedList
 - Circular Queue using Collection FrameWork
 - Queue using 2 Stacks
+
+## Day 24
+- Binary Tree Data Structure
+- Root, Branch, child, Leaf, Ancestors
+- Levels and Subtree
+- Build Tree PreOrder
   
