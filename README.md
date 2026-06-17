@@ -169,4 +169,6 @@ for placement preparation.
 - Build a Binary Search Tree
 - Search a key in BST
 - Delete a node in BST
+- Print in Range
+- Root to Leaf Paths
   
