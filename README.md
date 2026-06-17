@@ -152,5 +152,7 @@ for placement preparation.
 - Build Tree PreOrder
 - PreOrder Traversal
 - InOrder Traversal
+- PostOrder Traversal
+- LevelOrder Traversal
 - 
   
