@@ -150,4 +150,7 @@ for placement preparation.
 - Root, Branch, child, Leaf, Ancestors
 - Levels and Subtree
 - Build Tree PreOrder
+- PreOrder Traversal
+- InOrder Traversal
+- 
   
