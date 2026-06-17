@@ -167,5 +167,6 @@ for placement preparation.
 - Binary Search Trees
 - Properties of BST
 - Build a Binary Search Tree
-- 
+- Search a key in BST
+- Delete a node in BST
   
