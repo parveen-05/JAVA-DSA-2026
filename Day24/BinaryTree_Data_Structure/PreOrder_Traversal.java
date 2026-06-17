@@ -27,6 +27,7 @@ public class PreOrder_Traversal {
             return newNode;
         }
     }
+    //PreOrder Traversal
     public static void preorder(Node root){
         if(root == null){
             return;
