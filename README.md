@@ -165,5 +165,5 @@ for placement preparation.
 
 ## Day 26
 - Binary Search Trees
-- 
+- Properties of BST
   
