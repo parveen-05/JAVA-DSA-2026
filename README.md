@@ -154,5 +154,8 @@ for placement preparation.
 - InOrder Traversal
 - PostOrder Traversal
 - LevelOrder Traversal
-- 
+
+## Day 25
+- Questions on Binary Tree
+- Count of Nodes
   
