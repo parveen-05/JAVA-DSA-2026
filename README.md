@@ -162,4 +162,8 @@ for placement preparation.
 - Height of Tree
 - Diameter of Tree(Approch1, Approch2)
 - subtree of another tree
+
+## Day 26
+- Binary Search Trees
+- 
   
