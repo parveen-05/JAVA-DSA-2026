@@ -160,5 +160,6 @@ for placement preparation.
 - Count of Nodes
 - Sum of Nodes
 - Height of Tree
-- Diameter of Tree
+- Diameter of Tree(Approch1, Approch2)
+- subtree of another tree
   
