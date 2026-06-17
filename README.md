@@ -158,4 +158,7 @@ for placement preparation.
 ## Day 25
 - Questions on Binary Tree
 - Count of Nodes
+- Sum of Nodes
+- Height of Tree
+- Diameter of Tree
   
