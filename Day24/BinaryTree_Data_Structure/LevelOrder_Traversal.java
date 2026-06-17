@@ -27,7 +27,7 @@ public class LevelOrder_Traversal {
             return newNode;
         }
     }
-    //InOrder Traversal
+    //LevelOrder Traversal
     public static void levelOrder(Node root){
         if(root == null){
             return;
