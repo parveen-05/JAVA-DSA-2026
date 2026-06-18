@@ -25,6 +25,28 @@ public class Hashing_in_Java_HashMap {
 
         System.out.println(map.get("China"));//exsist
         System.out.println(map.get("Indonesia"));//doesn't exsist
-        
+
+        int arr[] = {12, 15, 18};
+        for(int i=0;i<3;i++){
+            System.out.print(arr[i]+" ");
+        }
+        System.out.println();
+
+        for(int val : arr){
+            System.out.print(val + " ");
+        }
+        System.out.println();
+
+        for(Map.Entry<String, Integer> e : map.entrySet()) {
+            System.out.println(e.getKey());
+            System.out.println(e.getValue());
+        }
+        Set<String> keys = map.keySet();
+        for(String key : keys){
+            System.out.println(key+" "+ map.get(key));
+        }
+
+        map.remove("China");
+        System.out.println(map);
     }
 }
