@@ -171,4 +171,7 @@ for placement preparation.
 - Delete a node in BST
 - Print in Range
 - Root to Leaf Paths
+
+## Day 27
+- HashSet in JAVA
   
