@@ -173,5 +173,8 @@ for placement preparation.
 - Root to Leaf Paths
 
 ## Day 27
-- HashSet in JAVA
+- Hashing in JAVA
+- Hashset in Java
+- Insert, Search, Delete, Size,
+- Iterating in Hashset
   
