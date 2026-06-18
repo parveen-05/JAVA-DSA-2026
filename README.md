@@ -177,4 +177,10 @@ for placement preparation.
 - Hashset in Java
 - Insert, Search, Delete, Size,
 - Iterating in Hashset
+
+## Day 28
+- HashMap in Java
+- Insert, Search, Delete etc
+- Keys and values
+- get and contains
   
