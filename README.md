@@ -199,4 +199,7 @@ for placement preparation.
 - Intersection of 2 arrays
 - Find itinerary from tickets
 - Subarray sum equal to K
+
+## Day 31
+- Trie Data Structure
   
