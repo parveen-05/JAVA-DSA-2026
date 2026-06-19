@@ -198,4 +198,5 @@ for placement preparation.
 - Union of 2 arrays
 - Intersection of 2 arrays
 - Find itinerary from tickets
+- Subarray sum equal to K
   
