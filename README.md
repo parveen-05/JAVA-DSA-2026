@@ -202,4 +202,7 @@ for placement preparation.
 
 ## Day 31
 - Trie Data Structure
+
+## Day 32
+- Graph Data Structure
   
