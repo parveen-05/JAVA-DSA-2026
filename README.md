@@ -189,5 +189,10 @@ for placement preparation.
 - HashMap Implementation in Java
 - put(), get(), containsKey(), remove(), size(), KeySet()
 - Array od LinkedList is used
-- ReHashing 
+- ReHashing
+
+## Day 30
+- Hashing Problems
+- 5 Best questions on Hashing
+- 
   
