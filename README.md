@@ -187,5 +187,7 @@ for placement preparation.
 
 ## Day 29
 - HashMap Implementation in Java
-- 
+- put(), get(), containsKey(), remove(), size(), KeySet()
+- Array od LinkedList is used
+- ReHashing 
   
