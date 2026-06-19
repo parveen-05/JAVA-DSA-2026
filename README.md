@@ -194,5 +194,8 @@ for placement preparation.
 ## Day 30
 - Hashing Problems
 - 5 Best questions on Hashing
-- 
+- Majority Elements
+- Union of 2 arrays
+- Intersection of 2 arrays
+- Find itinerary from tickets
   
