@@ -45,32 +45,6 @@ public class Count_Unique_Substring {
         }
         return true;
     }
-    public static boolean wordBreak(String key){
-        if(key.length()==0){
-            return true;
-        }
-        for(int i=1;i<=key.length();i++){
-            String firstPart = key.substring(0,i);
-            String secPart = key.substring(i);
-            if(search(firstPart) && wordBreak(secPart)){
-                return true;
-            }
-        }
-        return false;
-    }
-    public static boolean startsWith(String prefix){
-        Node curr = root;
-        for(int i=0;i<prefix.length();i++){
-            int idx = prefix.charAt(i) - 'a';
-
-            if
-            (curr.children[idx]==null){
-                return false;
-            }
-            curr= curr.children[idx];
-        }
-        return true;
-    }
     public static int countNode(Node root){
         if(root==null){
             return 0;
