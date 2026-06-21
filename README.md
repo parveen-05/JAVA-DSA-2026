@@ -202,7 +202,17 @@ for placement preparation.
 
 ## Day 31
 - Trie Data Structure
+- Insert in Trie
+- Search in Trie
+- WordBreak Problem
+- StartsWith Problem
+- Count Unique Substring
+- Longest Words with all Prefix
 
 ## Day 32
 - Graph Data Structure
+- Adjacency List
+- Adjacency matrix, edge list, Implicit graph
+- Graph Traversals
+- 
   
