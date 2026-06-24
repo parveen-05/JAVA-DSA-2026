@@ -221,4 +221,7 @@ for placement preparation.
 - Cycle in Graphs
 - Dijkstra's Algorithm
 - Bellman Ford Algorithm
+- Minimum Spanning Tree
+- Prim's Algorithm
+- 
   
