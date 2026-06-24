@@ -224,4 +224,7 @@ for placement preparation.
 - Minimum Spanning Tree
 - Prim's Algorithm
 - Strongly Connected Components
+- Kosaraju's Algorithm
+- Bridge in Graph
+- Tarjan's Algorithm
   
