@@ -223,5 +223,5 @@ for placement preparation.
 - Bellman Ford Algorithm
 - Minimum Spanning Tree
 - Prim's Algorithm
-- 
+- Strongly Connected Components
   
