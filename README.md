@@ -214,5 +214,8 @@ for placement preparation.
 - Adjacency List
 - Adjacency matrix, edge list, Implicit graph
 - Graph Traversals
+- Breadth First Search(BFS)
+- Depth First Search(DFS)
+- Cycle Detection
 - 
   
