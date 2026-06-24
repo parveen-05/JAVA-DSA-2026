@@ -219,4 +219,6 @@ for placement preparation.
 - Cycle Detection
 - Topological Sorting
 - Cycle in Graphs
+- Dijkstra's Algorithm
+- Bellman Ford Algorithm
   
