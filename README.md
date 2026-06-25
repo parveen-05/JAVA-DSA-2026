@@ -227,4 +227,5 @@ for placement preparation.
 - Kosaraju's Algorithm
 - Bridge in Graph
 - Tarjan's Algorithm
+- Articulation Point
   
